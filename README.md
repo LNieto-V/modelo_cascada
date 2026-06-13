@@ -6,7 +6,8 @@ El ciclo de vida en cascada se divide en las siguientes etapas documentadas y es
 
 1. **[Análisis de Requerimientos](file:///c:/Users/lnieto/modelo_cascada/An%C3%A1lisis%20de%20requerimientos/)**:
    * **Proceso (`proceso.md`):** Definición del proceso de elicitación y definición de requisitos conforme a las cláusulas 6.4.2 y 6.4.3 de ISO/IEC/IEEE 12207.
-   * **Línea Base (`outcomes/resultado1.md`):** Especificación de Requisitos del Sistema (SyRS) aprobada y congelada.
+   * **Línea Base 1 (`outcomes/resultado1.md`):** Entregables del Proceso de Definición de Requisitos y Necesidades de los Interesados (StRS 6.4.2) - Aprobado y Congelado.
+   * **Línea Base 2 (`outcomes/resultado2.md`):** Especificación de Requisitos del Sistema (SyRS 6.4.3) - Aprobada y Congelada.
 2. **[Arquitectura](file:///c:/Users/lnieto/modelo_cascada/Arquitectura/)**:
    * **Proceso (`proceso.md`):** Descripción del proceso de definición de arquitectura (Cláusula 6.4.4).
    * **Línea Base (`outcomes/resultado1.md`):** Especificación de Arquitectura del Sistema (SAD).

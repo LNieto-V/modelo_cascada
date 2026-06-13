@@ -55,14 +55,15 @@ De acuerdo con las directrices de la norma, se ejecutaron las siguientes activid
 ---
 
 ## 5. Salidas del Proceso (Outputs)
-*   **Especificación de Requisitos del Sistema (SyRS):** Documentada en `outcomes/resultado1.md`.
-*   **Matriz de Trazabilidad de Requisitos:** Incluida dentro del documento de outcomes, enlazando necesidades de negocio con requerimientos técnicos.
-*   **Lista de Verificación de Salidas (Outcomes Checklist 6.4.3.2):** Completa y aprobada al 100%.
+*   **Entregables del Proceso de Definición de Requisitos y Necesidades de los Interesados (StRS 6.4.2):** Documentados en `outcomes/resultado1.md`.
+*   **Especificación de Requisitos del Sistema (SyRS 6.4.3):** Documentada en `outcomes/resultado2.md`.
+*   **Matriz de Trazabilidad de Requisitos:** Enlaza las necesidades de negocio con los requerimientos técnicos en ambos entregables.
+*   **Lista de Verificación de Salidas (Outcomes Checklist 6.4.2.2 y 6.4.3.2):** Completas y aprobadas al 100%.
 
 ---
 
 ## 6. Criterio de Cierre y Congelamiento (Exit Criteria)
 Esta fase se da por concluida una vez que:
-1.  El documento `outcomes/resultado1.md` es revisado y firmado por el Analista de Procesos y el Diseñador de Procesos.
-2.  La matriz de trazabilidad demuestra cobertura total de las necesidades del stakeholder.
-3.  Se establece formalmente el congelamiento de esta línea base. A partir de este momento, cualquier modificación de requisitos debe canalizarse mediante el proceso de control de cambios. Se autoriza el paso a la fase de **Diseño Arquitectónico (6.4.4)**.
+1.  Los documentos `outcomes/resultado1.md` y `outcomes/resultado2.md` son revisados y firmados por los stakeholders correspondientes (Analista, Diseñador y Responsable de Proyecto).
+2.  Las matrices de trazabilidad demuestran cobertura total de las necesidades del stakeholder y de los requisitos del sistema.
+3.  Se establece formalmente el congelamiento de esta línea base (Baseline v1.0). A partir de este momento, cualquier modificación de requisitos debe canalizarse mediante el proceso de control de cambios. Se autoriza el paso a la fase de **Diseño Arquitectónico (6.4.4)**.
